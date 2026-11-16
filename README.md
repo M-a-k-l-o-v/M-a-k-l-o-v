@@ -18,6 +18,11 @@ A locally hostable task agent with an evaluation harness, built with a partner. 
 **[Regional Integrated Transport Application](https://github.com/M-a-k-l-o-v/Regional-Integrated-Transport-Application)** (TypeScript)
 University team project. My part: the Express, Prisma and Postgres backend, live bus and rail feed ingestion, and the admin API with API-key auth and role-based access.
 
+### Earlier projects
+
+- [Bach-man](https://github.com/M-a-k-l-o-v/Bach_man_game_for_A_level_project) (Python, pygame, SQLite): my A-level project, a Pac-Man-style maze game with player accounts and a high-score table.
+- [Early experiments](https://github.com/M-a-k-l-o-v/early-experiments): first scripts, web pages and Django tutorials from 2021–2023. Kept for history; not maintained.
+
 ## How I work
 
 - Every project ends in a write-up with numbers and a line on what it doesn't show.
