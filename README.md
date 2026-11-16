@@ -20,6 +20,7 @@ University team project. My part: the Express, Prisma and Postgres backend, live
 
 ### Earlier projects
 
+- [Metrolink route planner](https://github.com/M-a-k-l-o-v/metrolink-route-planner) (Java): first-year university assignment. Finds the fastest route across the Manchester tram network with Dijkstra's algorithm.
 - [Bach-man](https://github.com/M-a-k-l-o-v/Bach_man_game_for_A_level_project) (Python, pygame, SQLite): my A-level project, a Pac-Man-style maze game with player accounts and a high-score table.
 - [Early experiments](https://github.com/M-a-k-l-o-v/early-experiments): first scripts, web pages and Django tutorials from 2021–2023. Kept for history; not maintained.
 
